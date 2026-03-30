@@ -56,7 +56,7 @@ By allowing users to define their own comparison group (e.g., by gender, educati
 
 ## Why This Matters
 
-“Average” is often treated as objective truth — but it’s not.
+“Average” is often treated as objective truth, but it’s not.
 
 It depends on:
 - Who you include
